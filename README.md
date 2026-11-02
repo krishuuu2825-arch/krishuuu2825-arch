@@ -18,8 +18,8 @@ A production-ready toolkit developed in Python to demonstrate proficiency in soc
 ## 📈 Technical Learning & Foundations
 
 - **Cisco Networking Academy:** Successfully completed foundational domain pathways including *Introduction to Cybersecurity*, establishing core competencies in enterprise architecture, IPv4 routing protocols, and administrative defensive baselines.
-- **Official Verification:** [Click here to view verified Cisco Certificate](./cisco_certificate.png)
--                            [Click here to view verified Cisco badge](./cisco_badge.png)
+- **Official Verification:** [Click here to view verified Cisco Certificate]https://github.com/krishuuu2825-arch/Network-Security-Tools/blob/main/cisco_certificate.jpeg
+-**Official Verification:** [Click here to view verified Cisco badge]https://github.com/krishuuu2825-arch/Network-Security-Tools/blob/main/cisco_badge.jpeg
 ---
 
 ## 🎯 Continuous Cybersecurity Exposure & Labs
