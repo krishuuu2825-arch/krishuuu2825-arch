@@ -18,7 +18,8 @@ A production-ready toolkit developed in Python to demonstrate proficiency in soc
 ## 📈 Technical Learning & Foundations
 
 - **Cisco Networking Academy:** Successfully completed foundational domain pathways including *Introduction to Cybersecurity*, establishing core competencies in enterprise architecture, IPv4 routing protocols, and administrative defensive baselines.
-- **Official Verification:** [Click here to view verified Cisco Badge & Certificate]https://www.netacad.com/profile?tab=badges
+- **Official Verification:** [Click here to view verified Cisco Certificate](./cisco_certificate.png)
+-                            [Click here to view verified Cisco badge](./cisco_badge.png)
 ---
 
 ## 🎯 Continuous Cybersecurity Exposure & Labs
